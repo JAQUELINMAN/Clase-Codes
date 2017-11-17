@@ -1,0 +1,73 @@
+/*.tania{
+	height: 50px;
+	width: 50px;
+}*/
+
+/**{
+	background: pink;
+}
+
+
+header {
+  width: 200px;
+}
+
+header > hr {
+  width: 33.33%;
+  height: 7px;
+  background: black;
+}
+
+.coder{
+  position: relative;
+  width: 300px;
+  display: inline-block;
+  margin-left: 7%;
+  opacity: 0.5;
+  margin-bottom: 3%;
+}
+
+.coder:hover {
+  background: red;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.coder> span {
+  position: absolute;
+  bottom: 25px;
+  color: white;
+  right: 30px;
+}
+*/
+header {
+  width: 200px;
+}
+
+header > hr {
+  width: 33.33%;
+  height: 7px;
+  background: black;
+}
+
+.image-container {
+  position: relative;
+  width: 300px;
+  display: inline-block;
+  margin-left: 7%;
+  opacity: 0.4;
+  margin-bottom: 3%;
+}
+
+.image-container:hover {
+  background: red;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.image-container > span {
+  position: absolute;
+  bottom: 25px;
+  color:white;
+  right: 30px;
+}
